@@ -1,15 +1,26 @@
-📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
-This project is an interactive Sales Performance Dashboard designed to analyze and visualize sales data for better business decision-making. It provides clear insights into revenue trends, regional performance, product-wise sales, and key KPIs using intuitive visualizations.
+## 📌 Overview
+This project analyzes sales data to uncover business insights and trends.
 
-🔹 Key Features
+## ⚙️ Tech Stack
+- Python (Pandas, NumPy)
+- SQL
+- Streamlit
 
-📈 Sales Trend Analysis – Track sales performance over time
+## 📊 Features
+- Revenue analysis
+- Profit margins
+- Region-wise performance
+- Interactive dashboard
 
-🌍 Region-wise & Product-wise Analysis – Identify top-performing areas and products
+## 📈 Key Insights
+- Region X contributed highest revenue
+- Product Y has low profit margin
+- Seasonal spikes observed
 
-📊 KPIs Dashboard – Total Sales, Profit, Quantity Sold, and Growth Indicators
+## 🖼️ Dashboard Preview
+(Add screenshots here)
 
-🔍 Interactive Filters – Easily explore data by category, region, or time period
-
-🎯 Business Insights – Helps stakeholders make data-driven decisions
+## ▶️ How to Run
+streamlit run app.py
